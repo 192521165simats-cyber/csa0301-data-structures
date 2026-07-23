@@ -1,0 +1,9 @@
+START
+Create Attendance Array
+Store P, A, P, P, A
+
+FOR each student
+    Display Attendance
+END FOR
+
+STOP
