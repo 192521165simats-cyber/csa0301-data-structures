@@ -1,0 +1,12 @@
+START
+Create Book List
+Add Book Details
+Search Book
+
+IF Book is found
+    Display "Book Available"
+ELSE
+    Display "Book Not Available"
+END IF
+
+STOP
