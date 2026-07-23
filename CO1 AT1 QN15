@@ -1,0 +1,12 @@
+START
+Create Student Records
+Store Class and Section
+Search Student
+
+IF Student is found
+    Display Student Details
+ELSE
+    Display "Student Not Found"
+END IF
+
+STOP
