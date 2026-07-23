@@ -1,0 +1,12 @@
+START
+Create Sorted Document List
+Enter Document ID
+Apply Binary Search
+
+IF Document ID is found
+    Display "Document Found"
+ELSE
+    Display "Document Not Found"
+END IF
+
+STOP
