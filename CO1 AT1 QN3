@@ -1,0 +1,10 @@
+START
+Create Salary Array
+Store salaries 20000, 25000, 30000
+
+FOR each employee
+    Process Salary
+    Display Salary
+END FOR
+
+STOP
