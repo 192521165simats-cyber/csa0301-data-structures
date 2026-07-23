@@ -1,0 +1,12 @@
+START
+Create Seat List
+Select Seat
+
+IF Seat is available
+    Book Seat
+    Display "Booking Successful"
+ELSE
+    Display "Seat Not Available"
+END IF
+
+STOP
