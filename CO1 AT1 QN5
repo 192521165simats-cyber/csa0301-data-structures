@@ -1,0 +1,11 @@
+START
+Create Array
+Enter Search Element
+
+FOR each element
+    IF element = Search Element
+        Display "Element Found"
+    END IF
+END FOR
+
+STOP
