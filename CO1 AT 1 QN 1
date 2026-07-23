@@ -1,0 +1,11 @@
+START
+Create Queue
+Add Job 101
+Add Job 102
+Add Job 103
+
+WHILE Queue is not empty
+    Process first Job
+    Remove Job from Queue
+END WHILE
+STOP
